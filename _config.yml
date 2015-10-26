@@ -1,0 +1,23 @@
+name: JeremyAu
+favicon: null
+layout_spectrum: 0.7895899997092783
+typography_spectrum: 0.7573018902912736
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.21917226072400808
+  lightness: 0.05200024484656751
+  saturation: 0.595753175439313
+  rhythmicContrast: 0.21598728140816092
+purpose: []
